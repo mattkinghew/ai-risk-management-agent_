@@ -1,0 +1,5 @@
+﻿numpy==1.24.3
+pandas==2.0.3
+# 如果有串接 OpenAI 或 Gemini
+openai==1.3.0
+google-generativeai==0.3.1
